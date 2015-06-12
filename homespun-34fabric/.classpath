@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/workspace/homespun-34fabric/lib/selenium-java-2.44.0.jar"/>
-	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/workspace/homespun-34fabric/lib/testng-6.8.5.jar"/>
-	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/workspace/homespun-34fabric/lib/org.apache.commons.io.jar"/>
-	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/workspace/homespun-34fabric/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/jxl-2.6.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
