@@ -6,6 +6,7 @@
 	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/testng-6.8.5.jar"/>
 	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/org.apache.commons.io.jar"/>
 	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/jxl-2.6.12.jar"/>
-	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/chromedriver"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/selenium-firefox-driver-2.0b3.jar"/>
+	<classpathentry kind="lib" path="/Users/jyothyj/TWorks/git/homespun-34fabric/lib/selenium-server-standalone-2.46.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

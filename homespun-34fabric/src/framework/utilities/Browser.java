@@ -17,7 +17,7 @@ public class Browser {
 			driver = new FirefoxDriver(capability);
 
 		} else if (browser.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", "chromedriver");
+			System.setProperty("webdriver.chrome.driver", "lib/chromedriver");
 			DesiredCapabilities capability = DesiredCapabilities.chrome();
 			driver = new ChromeDriver(capability);
 		}
